@@ -21,7 +21,7 @@ pipelines:
               DONT_BREAK_BUILD: 'true' # Optional.
               MONITOR: 'true' # Optional.
               # SEVERITY_THRESHOLD: '<low|medium|high>' # Optional.
-              ORGANIZATION: 'SNYK_ORG_ID' # Optional.
+              ORGANIZATION: '$SNYK_ORG_ID' # Optional.
               # PROJECT_FOLDER: '<string>' # Optional.
               # TARGET_FILE: '<string>' # Optional.
               # EXTRA_ARGS: '<string>' # Optional.
