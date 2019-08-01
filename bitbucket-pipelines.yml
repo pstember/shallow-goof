@@ -24,5 +24,5 @@ pipelines:
               ORGANIZATION: '$SNYK_ORG_ID' # Optional.
               # PROJECT_FOLDER: '<string>' # Optional.
               # TARGET_FILE: '<string>' # Optional.
-              # EXTRA_ARGS: '<string>' # Optional.
+              EXTRA_ARGS: '--project-name=BBS-pipelines' # Optional.
               # DEBUG: '<boolean>' # Optional.
