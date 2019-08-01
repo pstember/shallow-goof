@@ -5,11 +5,10 @@
   "homepage": "https://snyk.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Snyk/shallow-goof"
+    "url": "https://github.com/pstember/shallow-goof"
   },
   "dependencies": {
     "qs": "0.0.6",
     "node-uuid": "1.4.0"
   }
 }
-
